@@ -267,7 +267,7 @@
   }
   .child-team {
     margin-bottom: 30px;
-    min-height: unset;
+    min-height: auto;
   }
   .child-team img {
     margin-bottom: 16px;
