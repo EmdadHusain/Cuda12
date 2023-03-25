@@ -1,0 +1,711 @@
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  #team-area .col-sm-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+@media only screen and (min-width: 480px) {
+  #about-area .col-sm-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+@media only screen and (min-width: 506px) and (max-width: 767px) {
+  #service-area .col-sm-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+@media only screen and (min-width: 576px) {
+  #portfolio-area .col-sm-6:nth-child(even) img {
+    margin-left: auto;
+    display: block;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .child-service h4 {
+    font-size: 20px;
+  }
+  #portfolio-area .boxed-btn {
+    padding: 17px 45px;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .child-service h4 {
+    font-size: 25px;
+  }
+  .contact-form .boxed-btn {
+    padding: 25px 81px 22px;
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  #contact-area .section-title {
+    margin-bottom: 72px;
+    max-width: 782px;
+  }
+}
+@media only screen and (min-width: 1441px) {
+  .section-padding {
+    padding: 110px 0 121px;
+  }
+  #skill-area .section-padding {
+    padding: 111px 0 117px;
+  }
+  #portfolio-area .boxed-btn {
+    padding: 25px 63px;
+  }
+  #counterUp-area .section-title {
+    margin-bottom: 50px;
+  }
+  #counterUp-area.section-padding {
+    padding: 110px 0 160px;
+  }
+}
+@media only screen and (max-width: 1640px) {
+  #skill-area .section-title {
+    margin-bottom: 45px;
+  }
+}
+@media only screen and (max-width: 1440px) {
+  #contact-area {
+    padding: 70px 0;
+  }
+  .section-padding {
+    padding: 80px 0;
+  }
+  #skill-area.section-padding {
+    padding: 80px 0 120px;
+  }
+  .child-team {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
+
+@media only screen and (max-width: 1300px) {
+  .counter-number {
+    font-size: 70px;
+  }
+}
+@media only screen and (max-width: 1280px) {
+  #portfolio-area .boxed-btn {
+    margin: 10px auto 0;
+  }
+}
+@media only screen and (max-width: 1200px) {
+   #header-area{
+    height:70vh;
+  }
+  #contact-area {
+    padding: 60px 0;
+  }
+  .section-padding {
+    padding: 70px 0;
+  }
+  #skill-area .section-title {
+    margin-bottom: 35px;
+  }
+  .child-team {
+    min-height: 502px;
+  }
+}
+@media only screen and (max-width: 1100px) {
+}
+@media only screen and (max-width: 1024px) {
+  .child-skill h4 {
+    margin-top: 12px;
+  }
+  #skill-area.section-padding {
+    padding: 70px 0 100px;
+  }
+}
+@media only screen and (max-width: 1023px) {
+}
+
+/* Medium Layout 1280px */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 992px) {
+  .counter-number {
+    font-size: 60px;
+  }
+  .child-counter {
+    font-size: 25px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .sticky {
+   padding: 8px 5% 17px;
+  }
+ 
+  .section-padding {
+    padding: 60px 0;
+  }
+ 
+  .bottom-header h2 {
+    font-size: 30.16px;
+  }
+  .boxed-btn {
+    padding: 17px 57px;
+  }
+  .child-team h4 {
+    font-size: 19px;
+  }
+
+  .social-link li a i {
+    margin-right: 3px;
+  }
+
+  #about-area {
+    padding: 94px 0 95px;
+  }
+
+  #about-area .row {
+    row-gap: 100px;
+  }
+
+  #contact-area {
+    padding: 37px 0 53px;
+  }
+  .social-link li a i {
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+  }
+
+  .section-title h2 {
+    font-size: 36px;
+  }
+  #team-area .row {
+    row-gap: 88px;
+  }
+  .child-team {
+    min-height: 490px;
+  }
+}
+/* max~991 */
+
+@media only screen and (min-width: 917px) and (max-width: 927px) {
+  .child-team p {
+    min-height: 72px;
+  }
+}
+@media only screen and (max-width: 900px) {
+  #skill-area.section-padding {
+    padding: 60px 0 80px;
+  }
+}
+@media only screen and (max-width: 850px) {
+  .child-portfolio {
+    margin-bottom: 44px;
+  }
+  .footer-social a {
+    font-size: 16px;
+    margin: 0 8px;
+  }
+  .child-skill h4 {
+    font-size: 19px;
+    margin-top: 8px;
+  }
+}
+
+/* Tablet Layout: 768px */
+@media only screen and (min-width: 768px) and (max-width: 911px) {
+  .child-team img {
+    max-width: 160px;
+  }
+}
+/* 768px-991px */
+
+@media only screen and (max-width: 768px) {
+   #header-area{
+    height:60vh;
+  }
+  .footer-social a {
+    font-size: 16px;
+  }
+  #contact-area .section-title h2 {
+    font-size: 37px;
+  }
+  .contact-form input,
+  .contact-form textarea {
+    font-size: 15px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 925px) {
+  .child-team {
+    min-height: 494px;
+  }
+}
+
+/* Mobile Layout: 320px */
+@media only screen and (max-width: 767px) {
+  .sticky {
+    display: none;
+    }
+  
+  .dropdown::before {
+   display: none;
+  }
+  body a {
+    color: blue;
+  }
+  .logo-area {
+    text-align: center;
+    margin-top: 14px;
+  }
+
+  .main-menu ul li {
+    padding: 6px 7px;
+  }
+
+  #header-area {
+    padding: 20px 0 50px;
+  }
+
+  .boxed-btn {
+    font-size: 15px;
+    padding: 15px 32px;
+  }
+
+ 
+
+  #team-area {
+    padding: 45px 0 20px;
+  }
+  .section-title {
+    margin: 0 auto 29px;
+  }
+  .section-title h2 {
+    margin-bottom: 24px;
+  }
+  .child-team {
+    margin-bottom: 30px;
+    min-height: auto;
+  }
+  .child-team img {
+    margin-bottom: 16px;
+  }
+  .child-team h4 span {
+    margin: 5px 0 10px;
+  }
+  .child-team p {
+    margin-bottom: 19px;
+  }
+
+  #about-area {
+    padding: 35px 0 30px;
+  }
+
+  #about-area .section-title {
+    margin-bottom: 35px;
+  }
+  #about-area .row {
+    row-gap: 50px;
+  }
+
+  .child-about img {
+    margin-right: 23px;
+  }
+  .child-about p {
+    font-size: 21px;
+    line-height: 1.48;
+    font-style: italic;
+    margin-bottom: 10px;
+  }
+
+  #contact-area {
+    padding: 50px 0;
+  }
+  #header-area {
+    padding: 50px 0 80px;
+  }
+  .bottom-header h2 {
+    font-size: 22.16px;
+    margin-bottom: 20px;
+  }
+  .footer-social {
+    padding: 30px 0;
+  }
+  .child-about {
+    flex-flow: column;
+    text-align: center;
+  }
+  .child-about img {
+    margin-right: 0;
+    margin: 0 auto 10px;
+  }
+  #team-area .row {
+    row-gap: 0;
+  }
+  .main-menu {
+    margin-top: 0;
+    text-align: center;
+  }
+  .child-counter {
+    font-size: 20px;
+  }
+  .counter-number {
+    font-size: 50px;
+  }
+  .top-header .col-auto {
+    width: 100%;
+  }
+
+}
+/* 767px */
+
+@media only screen and (max-width: 700px) {
+  .child-skill h4 {
+    font-size: 15px;
+    margin-top: 5px;
+  }
+}
+@media only screen and (max-width: 680px) {
+  #skill-area .section-title {
+    margin-bottom: 25px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .portfolio-titles {
+    margin-bottom: 52px;
+  }
+  #portfolio-area .boxed-btn {
+    margin: 0 auto;
+  }
+  #team-area .col-6 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .child-team {
+    max-width: 400px;
+    margin: 0 auto 40px;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  #service-area {
+    padding: 42px 0 36px;
+  }
+  .service-title {
+    margin: 0 auto 43px;
+  }
+  .child-service {
+    margin-bottom: 40px;
+  }
+  .service-logo {
+    margin-bottom: 35px;
+  }
+  #about-area {
+    background: #d74680;
+    padding: 35px 2% 30px;
+    color: #fff;
+  }
+  #contact-area .section-title h2 {
+    font-size: 36px;
+    padding-bottom: 10px;
+    margin-bottom: 14px;
+  }
+  .contact-form input,
+  .contact-form textarea {
+    margin: 0 auto 14px;
+    display: block;
+  }
+  #contact-area {
+    padding: 40px 0;
+  }
+
+  .section-padding {
+    padding: 50px 0;
+  }
+  .child-portfolio {
+    max-width: 400px;
+    margin: 0 auto 34px;
+  }
+  .child-portfolio img {
+    margin: 0 auto 15px;
+  }
+  .contact-form textarea {
+    margin-bottom: 22px;
+  }
+  .footer-social a {
+    margin: 5px;
+  }
+  .child-skill {
+    margin-bottom: 10px;
+  }
+  .child-skill h4 {
+    font-size: 18px;
+    margin-top: 5px;
+  }
+  .child-counter {
+    margin-bottom: 30px;
+  }
+}
+/* 575px */
+
+@media only screen and (max-width: 500px) {
+  #skill-area.section-padding {
+    padding: 50px 0;
+  }
+}
+
+/* Wide Mobile Layout: 480px */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ 
+
+  .main-menu ul li {
+    padding: 6px 11px;
+  }
+
+  .section-title {
+    margin: 0 auto 49px;
+  }
+  .service-title h2 {
+    font-size: 38px;
+  }
+
+  .section-title p {
+    font-size: 15.58px;
+    line-height: 1.444;
+  }
+}
+/* 480px~767px */
+
+@media only screen and (max-width: 480px) {
+  .service-title {
+    margin: 0 auto 40px;
+  }
+
+  #header-area {
+    padding: 50px 0 60px;
+  }
+  .bottom-header h2 {
+    font-size: 20.16px;
+    margin-bottom: 38px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .service-title h2 {
+    font-size: 23px;
+  }
+  .service-title p {
+    font-size: 15px;
+  }
+  .child-service h4 {
+    font-size: 23px;
+    margin-bottom: 9px;
+  }
+
+  .section-title h2 {
+    font-size: 36px;
+    margin-bottom: 14px;
+    letter-spacing: 0;
+  }
+  .section-title p {
+    font-size: 17px;
+    line-height: 1.444;
+  }
+  .child-team h4 {
+    font-size: 20px;
+  }
+  .service-logo {
+    margin-bottom: 20px;
+  }
+  .bottom-header {
+    padding-top: 35px;
+  }
+}
+/* max-width:479px */
+
+@media only screen and (min-width: 425px) and (max-width: 575px) {
+  .contact-form input,
+  .contact-form textarea {
+    width: 80%;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 506px) {
+  .child-team p {
+    min-height: 120px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .child-team img {
+    margin-bottom: 6px;
+  }
+  .child-team p {
+    margin-bottom: 9px;
+  }
+  #about-area .row {
+    row-gap: 0px;
+  }
+  .child-about {
+    margin-bottom: 40px;
+  }
+}
+@media only screen and (max-width: 460px) {
+  #counterUp-area .col-6 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+@media only screen and (max-width: 440px) {
+  .bottom-header h2 span {
+    display: inline;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .child-about p {
+    font-size: 17px;
+
+    margin-bottom: 10px;
+  }
+  .child-about h4 {
+    font-size: 18px;
+  }
+
+  .child-about {
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (max-width: 424px) {
+  #about-area .section-title h2 {
+    font-size: 30px;
+  }
+  .bottom-header h2 {
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .portfolio-titles li {
+    padding: 12px 22px;
+  }
+  .child-team {
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 374px) {
+}
+@media only screen and (min-width: 320px) and (max-width: 424px) {
+  .contact-form input,
+  .contact-form textarea {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .portfolio-titles li {
+    padding: 12px 17px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .portfolio-titles li {
+    padding: 12px 16px;
+  }
+}
+
+@media only screen and (max-width: 319px) {
+  .section-padding {
+    padding: 40px 0;
+  }
+  .service-title h2 {
+    font-size: 21px;
+    letter-spacing: 0;
+  }
+  .service-title p {
+    font-size: 14px;
+  }
+  .bottom-header {
+    padding-top: 20px;
+  }
+  .bottom-header h2 {
+    margin-bottom: 32px;
+  }
+
+  .child-about p {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .contact-form textarea {
+    height: 176px;
+    margin-bottom: 17px;
+  }
+  .bottom-header h2 {
+    margin-bottom: 25px;
+    font-size: 18px;
+  }
+  #contact-area {
+    padding: 30px 0;
+  }
+  #header-area {
+    padding: 50px 0 30px;
+  }
+
+  .portfolio-titles li:first-child,
+  .portfolio-titles li:last-child {
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+  .portfolio-titles li {
+    min-width: 80px;
+  }
+  .portfolio-titles {
+    margin-bottom: 32px;
+  }
+  .child-portfolio {
+    margin-bottom: 20px;
+  }
+  .child-portfolio img {
+    margin: 0 auto 10px;
+  }
+  .footer-social a {
+    font-size: 18px;
+  }
+  .section-title {
+    margin-bottom: 20px;
+  }
+  #skill-area .col-6 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .child-skill h4 {
+    font-size: 24px;
+    margin-top: 0;
+  }
+}
+/* max~319 */
+
+@media only screen and (max-width: 279px) {
+  .child-portfolio h6 {
+    font-size: 0.95rem;
+  }
+}
+@media only screen and (max-width: 250px) {
+  .boxed-btn {
+    padding: 15px 22px;
+  }
+  .child-team img {
+    max-width: 170px;
+    max-height: 170px;
+  }
+  .footer-social a {
+    font-size: 15px;
+  }
+  .service-title h2 {
+    font-size: 17px;
+  }
+}
